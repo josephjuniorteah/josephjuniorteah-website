@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Joseph Junior Teah aka TalkinSoldier - Official Website</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #000;
+      color: #FFD700;
+    }
+    header {
+      background-color: #111;
+      padding: 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    nav {
+      margin-top: 0.5rem;
+    }
+    nav a {
+      color: #FFD700;
+      text-decoration: none;
+      margin: 0 10px;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 3rem 1rem;
+      text-align: center;
+    }
+    section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 1rem;
+    }
+    .testimonial {
+      margin: 2rem auto;
+      max-width: 400px;
+      background: #111;
+      padding: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+    }
+    .testimonial video, .testimonial iframe {
+      width: 100%;
+      border-radius: 8px;
+    }
+    footer {
+      background-color: #111;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Joseph Junior Teah aka TalkinSoldier</h1>
+    <p>Entertainment Strategist • Cultural Promoter • Entrepreneur</p>
+    <nav>
+      <a href="#about">About Me</a>
+      <a href="#consultancy">Consultancy</a>
+      <a href="#business">Be Honest 3</a>
+      <a href="#awareness">Awareness Projects</a>
+      <a href="#testimonials">Testimonials</a>
+      <a href="#blog">Blog</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Welcome! I am Joseph Junior Teah, popularly called TalkinSoldier, Vice President for Operations – Musicians Union of Liberia (MULIB), an Entertainment Strategist, Cultural Artist Promoter, and Entrepreneur. I value honesty, hard work, loyalty, and patriotism. This platform shares my journey, projects, and services.</p>
+  </section>
+
+  <section id="consultancy">
+    <h2>Private Consultancy</h2>
+    <p>I offer services in cultural diplomacy, event strategy, artist development, project writing and institutional awareness projects for local and international organizations.</p>
+  </section>
+
+  <section id="business">
+    <h2>Be Honest 3</h2>
+    <p>Be Honest 3 is my private business that started as a fishing company and has grown into entertainment and other services. It represents growth, creativity, and community service.</p>
+  </section>
+
+  <section id="awareness">
+    <h2>Awareness Projects</h2>
+    <p>Collaborating with institutions to design and execute impactful awareness initiatives that connect with communities both locally and internationally.</p>
+  </section>
+
+  <section id="testimonials">
+    <h2>What People Say</h2>
+    <div class="testimonial">
+      <video controls>
+        <source src="friend1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <p><strong>King Jaffa</strong> – Artists’ Manager</p>
+      <p>"Joseph has been a true inspiration and supporter of Liberian arts."</p>
+    </div>
+
+    <div class="testimonial">
+      <iframe src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+      <p><strong>Takun J</strong> – Cultural Promoter</p>
+      <p>"Working with Joseph has been an amazing experience."</p>
+    </div>
+  </section>
+
+  <section id="blog">
+    <h2>Blog & Updates</h2>
+    <p>Coming soon: insights, updates, and reflections on culture, entertainment, and entrepreneurship.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: joteah29@gmail.com</p>
+    <p>Phone: +231-777-594-842</p><p>Phone: +231-880-744-099</p>
+    <p>Follow me on social media for updates.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Joseph Junior Teah. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+
